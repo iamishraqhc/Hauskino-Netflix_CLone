@@ -6,13 +6,12 @@ import 'firebase/auth';
 // import { seedDatabase } from '../seed';
 
 const config = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: '',
+  apiKey: "AIzaSyADaPjMCh9t4SFIE3An6KokNaCFUbOtgno",
+  authDomain: "hauskino-88962.firebaseapp.com",
+  projectId: "hauskino-88962",
+  storageBucket: "hauskino-88962.appspot.com",
+  messagingSenderId: "187110751227",
+  appId: "1:187110751227:web:f3e715664581069d4e295e"
 };
 
 const firebase = Firebase.initializeApp(config);
